@@ -1,4 +1,4 @@
 # MyRepositoryWorld
 
-![djkl](http://baidu.com)
+[baidu](http://www.baidu.com)
 [index](index.html)
